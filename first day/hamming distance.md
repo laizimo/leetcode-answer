@@ -1,8 +1,12 @@
 1. 海明距离(Hamming distance)
 
-    **题目：**The Hamming distance between two integers is the number of positions at which the corresponding bits are different.Given two integers x and y, calculate the Hamming distance.
+    **题目：**
+    
+    The Hamming distance between two integers is the number of positions at which the corresponding bits are different.Given two integers x and y, calculate the Hamming distance.
 
-    **翻译：**两个整数之间的海明距离是在相应的位不同的位置数目。给两个整数x和y，计算海明距离
+    **翻译：**
+    
+    两个整数之间的海明距离是在相应的位不同的位置数目。给两个整数x和y，计算海明距离
 
     **例子：**
 
