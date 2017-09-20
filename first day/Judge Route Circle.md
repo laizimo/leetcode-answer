@@ -85,9 +85,10 @@ var judgeCircle = function(moves){
             break;
         }
     }
-  	 if(level === 0 && vertical === 0)
+  	 if(level === 0 && vertical === 0){
       	 return true;
-  	 return false;
+  	 }
+    return false;
 }
 ```
 
