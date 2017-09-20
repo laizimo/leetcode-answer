@@ -53,7 +53,9 @@ Explanation: n is 2, and the maximum sum of pairs is 4 = min(1, 2) + min(3, 4).
 */
 var arrayPairSum = function (nums) {
     nums.sort((item1, item2) => item1 - item2);
+    
   	var sum = 0;
+    
   	for(var i = 0; i < nums.length;){
         sum += nums[i];
     }
