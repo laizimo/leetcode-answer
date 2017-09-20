@@ -67,7 +67,7 @@ Output: false
 */
 var judgeCircle = function(moves){
     var level, vertical = 0;
-  	for(var index in moves){
+  	 for(var index in moves){
         switch(moves[index]){
           case 'R':
             level += 1;
@@ -85,9 +85,9 @@ var judgeCircle = function(moves){
             break;
         }
     }
-  	if(level === 0 && vertical === 0)
-      	return true;
-  	return false;
+  	 if(level === 0 && vertical === 0)
+      	 return true;
+  	 return false;
 }
 ```
 
