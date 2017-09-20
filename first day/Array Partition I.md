@@ -58,7 +58,7 @@ var arrayPairSum = function (nums) {
     for(var i = 0; i < nums.length;){
         sum += nums[i];
     }
-  	return sum;
+    return sum;
 }
 ```
 
