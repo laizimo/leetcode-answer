@@ -19,18 +19,21 @@
     The above arrows point to positions where the corresponding bits are different.
     ```
 
-    ​
-
     [题目链接](https://leetcode.com/problems/hamming-distance/description/)
 
     思路解析：可以通过将两个整数异或，然后计算二进制中的1的数目，即是海明距离。
 
     > 位操作符详解：
-    > &：按位与   
+    > 
+    > &：按位与 
+    > 
     > |：按位或
+    > 
     > ^：按位异或
+    > 
     > \>\>：右移，相当于除2
-    > \>\>：左移，相当于除3
+    > 
+    > \>\>：左移，相当于乘2
 
 ## 代码步骤：
 
