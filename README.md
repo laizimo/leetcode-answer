@@ -5,4 +5,6 @@
 
 [461. Hamming Distance](https://github.com/laizimo/leetcode-answer/blob/master/first%20day/hamming%20distance.md)
 
+[617. Merge Two Binary Trees](https://github.com/laizimo/leetcode-answer/blob/master/first%20day/Merge%20Two%20Binary%20Tree.md)
+
 [657. Judge Route Circle](https://github.com/laizimo/leetcode-answer/blob/master/first%20day/Judge%20Route%20Circle.md)
