@@ -47,6 +47,12 @@ The sister has three different kinds of candies.
 
 
 
+> Set集合的操作方法：
+>
+> * size => 得到集合的数量
+
+
+
 **代码实现：**
 
 
