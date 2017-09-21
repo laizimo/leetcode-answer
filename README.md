@@ -13,6 +13,8 @@
 
 [557.Reverse Words in a String III](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Reverse%20Words%20in%20a%20String%20III.md)
 
+[566.Reshape the Matrix](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Reshape%20the%20Matrix.md)
+
 [575.Distribute Candies](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Distribute%20Candies.md)
 
 [617. Merge Two Binary Trees](https://github.com/laizimo/leetcode-answer/blob/master/first%20day/Merge%20Two%20Binary%20Tree.md)
