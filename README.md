@@ -5,6 +5,8 @@
 
 [344.Reverse String](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Reverse%20String.md)
 
+[412.Fizz Buzz](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Fizz%20Buzz.md)
+
 [461. Hamming Distance](https://github.com/laizimo/leetcode-answer/blob/master/first%20day/hamming%20distance.md)
 
 [500. Keyboard Row](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Keyboard%20Row.md)
