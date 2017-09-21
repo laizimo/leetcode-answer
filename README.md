@@ -19,3 +19,5 @@
 
 [657. Judge Route Circle](https://github.com/laizimo/leetcode-answer/blob/master/first%20day/Judge%20Route%20Circle.md)
 
+[669.Trim a Binary Search Tree](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Trim%20a%20Binary%20Search%20Tree.md)
+
