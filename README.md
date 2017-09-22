@@ -3,6 +3,8 @@
 
 ## 已做的题目：
 
+[104. Maximum Depth of Binary Tree](https://github.com/laizimo/leetcode-answer/blob/master/third%20day/Maximum%20Depth%20of%20Binary%20Tree.md)
+
 [136. Single Number](https://github.com/laizimo/leetcode-answer/blob/master/third%20day/Single%20Number.md)
 
 [292. Nim Game](https://github.com/laizimo/leetcode-answer/blob/master/third%20day/Nim%20Game.md)
@@ -14,6 +16,8 @@
 [461. Hamming Distance](https://github.com/laizimo/leetcode-answer/blob/master/first%20day/hamming%20distance.md)
 
 [463. Island Perimeter](https://github.com/laizimo/leetcode-answer/blob/master/third%20day/Island%20Perimeter.md)
+
+[485. Max Consecutive Ones](https://github.com/laizimo/leetcode-answer/blob/master/third%20day/Max%20Consecutive%20Ones.md)
 
 [495. Next Greater Element I](https://github.com/laizimo/leetcode-answer/blob/master/third%20day/Next%20Greater%20Element%20I.md)
 
