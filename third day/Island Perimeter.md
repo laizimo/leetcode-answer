@@ -17,6 +17,7 @@ You are given a map in form of a two-dimensional integer grid where 1 represents
 
 Answer: 16
 Explanation: The perimeter is the 16 yellow stripes in the image below:
+
 ![image](https://leetcode.com/static/images/problemset/island.png)
 
 **思路：**
