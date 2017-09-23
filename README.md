@@ -7,6 +7,8 @@
 
 [136. Single Number](https://github.com/laizimo/leetcode-answer/blob/master/third%20day/Single%20Number.md)
 
+[226. Invert Binary Tree](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Invert%20Binary%20Tree.md)
+
 [292. Nim Game](https://github.com/laizimo/leetcode-answer/blob/master/third%20day/Nim%20Game.md)
 
 [344. Reverse String](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Reverse%20String.md)
