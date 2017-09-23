@@ -9,11 +9,17 @@
 
 [226. Invert Binary Tree](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Invert%20Binary%20Tree.md)
 
+[258. Add Digits](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Add%20Digits.md)
+
 [292. Nim Game](https://github.com/laizimo/leetcode-answer/blob/master/third%20day/Nim%20Game.md)
 
 [344. Reverse String](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Reverse%20String.md)
 
+[371. Sum of Two Integers](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Sum%20of%20Two%20Integers.md)
+
 [412. Fizz Buzz](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Fizz%20Buzz.md)
+
+[448. Find All Numbers Disappeared in an Array](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md)
 
 [461. Hamming Distance](https://github.com/laizimo/leetcode-answer/blob/master/first%20day/hamming%20distance.md)
 
@@ -24,6 +30,8 @@
 [495. Next Greater Element I](https://github.com/laizimo/leetcode-answer/blob/master/third%20day/Next%20Greater%20Element%20I.md)
 
 [500. Keyboard Row](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Keyboard%20Row.md)
+
+[520. Detect Capital](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Detect%20Capital.md)
 
 [561. Array Partition I](https://github.com/laizimo/leetcode-answer/blob/master/first%20day/Array%20Partition%20I.md)
 
