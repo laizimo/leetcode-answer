@@ -11,11 +11,15 @@
 
 [258. Add Digits](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Add%20Digits.md)
 
+[283. Move Zeroes](https://github.com/laizimo/leetcode-answer/blob/master/fifth%20day/Move%20Zeroes.md)
+
 [292. Nim Game](https://github.com/laizimo/leetcode-answer/blob/master/third%20day/Nim%20Game.md)
 
 [344. Reverse String](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Reverse%20String.md)
 
 [371. Sum of Two Integers](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Sum%20of%20Two%20Integers.md)
+
+[389. Find the Difference](https://github.com/laizimo/leetcode-answer/blob/master/fifth%20day/Find%20the%20Difference.md)
 
 [412. Fizz Buzz](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Fizz%20Buzz.md)
 
@@ -26,6 +30,8 @@
 [463. Island Perimeter](https://github.com/laizimo/leetcode-answer/blob/master/third%20day/Island%20Perimeter.md)
 
 [485. Max Consecutive Ones](https://github.com/laizimo/leetcode-answer/blob/master/third%20day/Max%20Consecutive%20Ones.md)
+
+[492. Construct the Rectangle](https://github.com/laizimo/leetcode-answer/blob/master/fifth%20day/Construct%20the%20Rectangle.md)
 
 [495. Next Greater Element I](https://github.com/laizimo/leetcode-answer/blob/master/third%20day/Next%20Greater%20Element%20I.md)
 
@@ -41,9 +47,15 @@
 
 [575. Distribute Candies](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Distribute%20Candies.md)
 
+[598. Range Addition II](https://github.com/laizimo/leetcode-answer/blob/master/fifth%20day/Range%20Addition%20II.md)
+
+[606. Construct String from Binary Tree](https://github.com/laizimo/leetcode-answer/blob/master/fifth%20day/Construct%20String%20from%20Binary%20Tree.md)
+
 [617. Merge Two Binary Trees](https://github.com/laizimo/leetcode-answer/blob/master/first%20day/Merge%20Two%20Binary%20Tree.md)
 
 [637. Average of Levels in Binary Tree](https://github.com/laizimo/leetcode-answer/blob/master/third%20day/Average%20of%20Levels%20in%20Binary%20Tree.md)
+
+[653. Two Sum IV - Input is a BST](https://github.com/laizimo/leetcode-answer/blob/master/fifth%20day/Two%20Sum%20IV%20-%20Input%20is%20a%20BST.md)
 
 [657. Judge Route Circle](https://github.com/laizimo/leetcode-answer/blob/master/first%20day/Judge%20Route%20Circle.md)
 
