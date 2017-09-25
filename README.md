@@ -3,9 +3,15 @@
 
 ## 已做的题目：
 
+[122. Best Time to Buy and Sell Stock II](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)
+
 [104. Maximum Depth of Binary Tree](https://github.com/laizimo/leetcode-answer/blob/master/third%20day/Maximum%20Depth%20of%20Binary%20Tree.md)
 
 [136. Single Number](https://github.com/laizimo/leetcode-answer/blob/master/third%20day/Single%20Number.md)
+
+[167. Two Sum II - Input array is sorted](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md)
+
+[171. Excel Sheet Column Number](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Excel%20Sheet%20Column%20Number.md)
 
 [226. Invert Binary Tree](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Invert%20Binary%20Tree.md)
 
@@ -17,7 +23,11 @@
 
 [344. Reverse String](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Reverse%20String.md)
 
+[349. Intersection of Two Arrays](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Intersection%20of%20Two%20Arrays.md)
+
 [371. Sum of Two Integers](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Sum%20of%20Two%20Integers.md)
+
+[383. Ransom Note](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Ransom%20Note.md)
 
 [389. Find the Difference](https://github.com/laizimo/leetcode-answer/blob/master/fifth%20day/Find%20the%20Difference.md)
 
@@ -38,6 +48,10 @@
 [500. Keyboard Row](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Keyboard%20Row.md)
 
 [520. Detect Capital](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Detect%20Capital.md)
+
+[530. Minimum Absolute Difference in BST](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Minimum%20Absolute%20Difference%20in%20BST.md)
+
+[538. Convert BST to Greater Tree](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Convert%20BST%20to%20Greater%20Tree.md)
 
 [561. Array Partition I](https://github.com/laizimo/leetcode-answer/blob/master/first%20day/Array%20Partition%20I.md)
 
