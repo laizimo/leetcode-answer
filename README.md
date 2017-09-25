@@ -35,6 +35,8 @@
 
 [448. Find All Numbers Disappeared in an Array](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md)
 
+[453. Minimum Moves to Equal Array Elements](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Minimum%20Moves%20to%20Equal%20Array%20Elements.md)
+
 [461. Hamming Distance](https://github.com/laizimo/leetcode-answer/blob/master/first%20day/hamming%20distance.md)
 
 [463. Island Perimeter](https://github.com/laizimo/leetcode-answer/blob/master/third%20day/Island%20Perimeter.md)
