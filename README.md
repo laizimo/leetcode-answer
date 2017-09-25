@@ -49,6 +49,8 @@
 
 [520. Detect Capital](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Detect%20Capital.md)
 
+[521. Longest Uncommon Subsequence I](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Longest%20Uncommon%20Subsequence%20I.md)
+
 [530. Minimum Absolute Difference in BST](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Minimum%20Absolute%20Difference%20in%20BST.md)
 
 [538. Convert BST to Greater Tree](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Convert%20BST%20to%20Greater%20Tree.md)
