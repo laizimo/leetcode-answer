@@ -11,6 +11,8 @@
 
 [167. Two Sum II - Input array is sorted](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md)
 
+[169. Majority Element](https://github.com/laizimo/leetcode-answer/blob/master/seventh%20day/Majority%20Element.md)
+
 [171. Excel Sheet Column Number](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Excel%20Sheet%20Column%20Number.md)
 
 [226. Invert Binary Tree](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Invert%20Binary%20Tree.md)
@@ -29,7 +31,11 @@
 
 [383. Ransom Note](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Ransom%20Note.md)
 
+[387. First Unique Character in a String](https://github.com/laizimo/leetcode-answer/blob/master/seventh%20day/First%20Unique%20Character%20in%20a%20String.md)
+
 [389. Find the Difference](https://github.com/laizimo/leetcode-answer/blob/master/fifth%20day/Find%20the%20Difference.md)
+
+[404. Sum of Left Leaves](https://github.com/laizimo/leetcode-answer/blob/master/seventh%20day/Sum%20of%20Left%20Leaves.md)
 
 [412. Fizz Buzz](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Fizz%20Buzz.md)
 
