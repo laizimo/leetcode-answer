@@ -15,6 +15,10 @@
 
 [171. Excel Sheet Column Number](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Excel%20Sheet%20Column%20Number.md)
 
+[206. Reverse Linked List](https://github.com/laizimo/leetcode-answer/blob/master/ninth%20day/Reverse%20Linked%20List.md)
+
+[217. Contains Duplicate](https://github.com/laizimo/leetcode-answer/blob/master/ninth%20day/Contains%20Duplicate.md)
+
 [226. Invert Binary Tree](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Invert%20Binary%20Tree.md)
 
 [258. Add Digits](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Add%20Digits.md)
@@ -36,6 +40,8 @@
 [389. Find the Difference](https://github.com/laizimo/leetcode-answer/blob/master/fifth%20day/Find%20the%20Difference.md)
 
 [404. Sum of Left Leaves](https://github.com/laizimo/leetcode-answer/blob/master/seventh%20day/Sum%20of%20Left%20Leaves.md)
+
+[409. Longest Palindrome](https://github.com/laizimo/leetcode-answer/blob/master/ninth%20day/Longest%20Palindrome.md)
 
 [412. Fizz Buzz](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Fizz%20Buzz.md)
 
