@@ -3,6 +3,10 @@
 
 ## 已做的题目：
 
+[13. Roman to Integer](https://github.com/laizimo/leetcode-answer/blob/master/eighth%20day/Roman%20to%20Integer.md)
+
+[100. Same Tree](https://github.com/laizimo/leetcode-answer/blob/master/eighth%20day/Same%20Tree.md)
+
 [122. Best Time to Buy and Sell Stock II](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)
 
 [104. Maximum Depth of Binary Tree](https://github.com/laizimo/leetcode-answer/blob/master/third%20day/Maximum%20Depth%20of%20Binary%20Tree.md)
@@ -16,6 +20,10 @@
 [171. Excel Sheet Column Number](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Excel%20Sheet%20Column%20Number.md)
 
 [226. Invert Binary Tree](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Invert%20Binary%20Tree.md)
+
+[237. Delete Node in a Linked List](https://github.com/laizimo/leetcode-answer/blob/master/eighth%20day/Delete%20Node%20in%20a%20Linked%20List.md)
+
+[242. Valid Anagram](https://github.com/laizimo/leetcode-answer/blob/master/eighth%20day/Valid%20Anagram.md)
 
 [258. Add Digits](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Add%20Digits.md)
 
@@ -55,6 +63,8 @@
 
 [500. Keyboard Row](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Keyboard%20Row.md)
 
+[506. Relative Ranks](https://github.com/laizimo/leetcode-answer/blob/master/eighth%20day/Relative%20Ranks.md)
+
 [520. Detect Capital](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Detect%20Capital.md)
 
 [521. Longest Uncommon Subsequence I](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Longest%20Uncommon%20Subsequence%20I.md)
@@ -72,6 +82,8 @@
 [575. Distribute Candies](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Distribute%20Candies.md)
 
 [598. Range Addition II](https://github.com/laizimo/leetcode-answer/blob/master/fifth%20day/Range%20Addition%20II.md)
+
+[599. Minimum Index Sum of Two Lists](https://github.com/laizimo/leetcode-answer/blob/master/eighth%20day/Minimum%20Index%20Sum%20of%20Two%20Lists.md)
 
 [606. Construct String from Binary Tree](https://github.com/laizimo/leetcode-answer/blob/master/fifth%20day/Construct%20String%20from%20Binary%20Tree.md)
 
