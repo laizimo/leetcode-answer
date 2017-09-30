@@ -31,6 +31,8 @@
 
 [258. Add Digits](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Add%20Digits.md)
 
+[268. Missing Number](https://github.com/laizimo/leetcode-answer/blob/master/tenth%20day/Missing%20Number.md)
+
 [283. Move Zeroes](https://github.com/laizimo/leetcode-answer/blob/master/fifth%20day/Move%20Zeroes.md)
 
 [292. Nim Game](https://github.com/laizimo/leetcode-answer/blob/master/third%20day/Nim%20Game.md)
@@ -39,6 +41,8 @@
 
 [349. Intersection of Two Arrays](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Intersection%20of%20Two%20Arrays.md)
 
+[350. Intersection of Two Arrays II](https://github.com/laizimo/leetcode-answer/blob/master/tenth%20day/Intersection%20of%20Two%20Arrays%20II.md)
+
 [371. Sum of Two Integers](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Sum%20of%20Two%20Integers.md)
 
 [383. Ransom Note](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Ransom%20Note.md)
@@ -46,6 +50,8 @@
 [387. First Unique Character in a String](https://github.com/laizimo/leetcode-answer/blob/master/seventh%20day/First%20Unique%20Character%20in%20a%20String.md)
 
 [389. Find the Difference](https://github.com/laizimo/leetcode-answer/blob/master/fifth%20day/Find%20the%20Difference.md)
+
+[401. Binary Watch](https://github.com/laizimo/leetcode-answer/blob/master/tenth%20day/Binary%20Watch.md)
 
 [404. Sum of Left Leaves](https://github.com/laizimo/leetcode-answer/blob/master/seventh%20day/Sum%20of%20Left%20Leaves.md)
 
@@ -56,6 +62,8 @@
 [448. Find All Numbers Disappeared in an Array](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md)
 
 [453. Minimum Moves to Equal Array Elements](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Minimum%20Moves%20to%20Equal%20Array%20Elements.md)
+
+[455. Assign Cookies](https://github.com/laizimo/leetcode-answer/blob/master/tenth%20day/Assign%20Cookies.md)
 
 [461. Hamming Distance](https://github.com/laizimo/leetcode-answer/blob/master/first%20day/hamming%20distance.md)
 
@@ -69,6 +77,8 @@
 
 [500. Keyboard Row](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Keyboard%20Row.md)
 
+[504. Base 7](https://github.com/laizimo/leetcode-answer/blob/master/tenth%20day/Base%207.md)
+
 [506. Relative Ranks](https://github.com/laizimo/leetcode-answer/blob/master/eighth%20day/Relative%20Ranks.md)
 
 [520. Detect Capital](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Detect%20Capital.md)
@@ -78,6 +88,12 @@
 [530. Minimum Absolute Difference in BST](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Minimum%20Absolute%20Difference%20in%20BST.md)
 
 [538. Convert BST to Greater Tree](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Convert%20BST%20to%20Greater%20Tree.md)
+
+[541. Reverse String II](https://github.com/laizimo/leetcode-answer/blob/master/tenth%20day/Reverse%20String%20II.md)
+
+[543. Diameter of Binary Tree](https://github.com/laizimo/leetcode-answer/blob/master/tenth%20day/Diameter%20of%20Binary%20Tree.md)
+
+[551. Student Attendance Record I](https://github.com/laizimo/leetcode-answer/blob/master/tenth%20day/Student%20Attendance%20Record%20I.md)
 
 [561. Array Partition I](https://github.com/laizimo/leetcode-answer/blob/master/first%20day/Array%20Partition%20I.md)
 
@@ -94,6 +110,8 @@
 [606. Construct String from Binary Tree](https://github.com/laizimo/leetcode-answer/blob/master/fifth%20day/Construct%20String%20from%20Binary%20Tree.md)
 
 [617. Merge Two Binary Trees](https://github.com/laizimo/leetcode-answer/blob/master/first%20day/Merge%20Two%20Binary%20Tree.md)
+
+[628. Maximum Product of Three Numbers](https://github.com/laizimo/leetcode-answer/blob/master/tenth%20day/Maximum%20Product%20of%20Three%20Numbers.md)
 
 [637. Average of Levels in Binary Tree](https://github.com/laizimo/leetcode-answer/blob/master/third%20day/Average%20of%20Levels%20in%20Binary%20Tree.md)
 
