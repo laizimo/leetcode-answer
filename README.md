@@ -7,9 +7,13 @@
 
 [100. Same Tree](https://github.com/laizimo/leetcode-answer/blob/master/eighth%20day/Same%20Tree.md)
 
+[121. Best Time to Buy and Sell Stock](https://github.com/laizimo/leetcode-answer/blob/master/eleventh%20day/Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
+
 [122. Best Time to Buy and Sell Stock II](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)
 
 [104. Maximum Depth of Binary Tree](https://github.com/laizimo/leetcode-answer/blob/master/third%20day/Maximum%20Depth%20of%20Binary%20Tree.md)
+
+[108. Convert Sorted Array to Binary Search Tree](https://github.com/laizimo/leetcode-answer/blob/master/eleventh%20day/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)
 
 [136. Single Number](https://github.com/laizimo/leetcode-answer/blob/master/third%20day/Single%20Number.md)
 
@@ -55,9 +59,13 @@
 
 [404. Sum of Left Leaves](https://github.com/laizimo/leetcode-answer/blob/master/seventh%20day/Sum%20of%20Left%20Leaves.md)
 
+[405. Convert a Number to Hexadecimal](https://github.com/laizimo/leetcode-answer/blob/master/eleventh%20day/Convert%20a%20Number%20to%20Hexadecimal.md)
+
 [409. Longest Palindrome](https://github.com/laizimo/leetcode-answer/blob/master/ninth%20day/Longest%20Palindrome.md)
 
 [412. Fizz Buzz](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Fizz%20Buzz.md)
+
+[415. Add Strings](https://github.com/laizimo/leetcode-answer/blob/master/eleventh%20day/Add%20Strings.md)
 
 [448. Find All Numbers Disappeared in an Array](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md)
 
@@ -103,6 +111,8 @@
 
 [575. Distribute Candies](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Distribute%20Candies.md)
 
+[594. Longest Harmonious Subsequence](https://github.com/laizimo/leetcode-answer/blob/master/eleventh%20day/Longest%20Harmonious%20Subsequence.md)
+
 [598. Range Addition II](https://github.com/laizimo/leetcode-answer/blob/master/fifth%20day/Range%20Addition%20II.md)
 
 [599. Minimum Index Sum of Two Lists](https://github.com/laizimo/leetcode-answer/blob/master/eighth%20day/Minimum%20Index%20Sum%20of%20Two%20Lists.md)
@@ -120,4 +130,6 @@
 [657. Judge Route Circle](https://github.com/laizimo/leetcode-answer/blob/master/first%20day/Judge%20Route%20Circle.md)
 
 [669. Trim a Binary Search Tree](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Trim%20a%20Binary%20Search%20Tree.md)
+
+[671. Second Minimum Node In a Binary Tree](https://github.com/laizimo/leetcode-answer/blob/master/eleventh%20day/Second%20Minimum%20Node%20In%20a%20Binary%20Tree.md)
 
