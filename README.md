@@ -3,9 +3,15 @@
 
 ## 已做的题目：
 
+### easy部分
+
 [13. Roman to Integer](https://github.com/laizimo/leetcode-answer/blob/master/eighth%20day/Roman%20to%20Integer.md)
 
+[83. Remove Duplicates from Sorted List](https://github.com/laizimo/leetcode-answer/blob/master/twelveth%20day/Remove%20Duplicates%20from%20Sorted%20List.md)
+
 [100. Same Tree](https://github.com/laizimo/leetcode-answer/blob/master/eighth%20day/Same%20Tree.md)
+
+[107. Binary Tree Level Order Traversal II](https://github.com/laizimo/leetcode-answer/blob/master/twelveth%20day/Binary%20Tree%20Level%20Order%20Traversal%20II.md)
 
 [121. Best Time to Buy and Sell Stock](https://github.com/laizimo/leetcode-answer/blob/master/eleventh%20day/Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
 
@@ -23,11 +29,15 @@
 
 [171. Excel Sheet Column Number](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Excel%20Sheet%20Column%20Number.md)
 
+[202. Happy Number](https://github.com/laizimo/leetcode-answer/blob/master/eleventh%20day/Happy%20Number.md)
+
 [206. Reverse Linked List](https://github.com/laizimo/leetcode-answer/blob/master/ninth%20day/Reverse%20Linked%20List.md)
 
 [217. Contains Duplicate](https://github.com/laizimo/leetcode-answer/blob/master/ninth%20day/Contains%20Duplicate.md)
 
 [226. Invert Binary Tree](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Invert%20Binary%20Tree.md)
+
+[231. Power of Two](https://github.com/laizimo/leetcode-answer/blob/master/twelveth%20day/Power%20of%20Two.md)
 
 [237. Delete Node in a Linked List](https://github.com/laizimo/leetcode-answer/blob/master/eighth%20day/Delete%20Node%20in%20a%20Linked%20List.md)
 
@@ -40,6 +50,8 @@
 [283. Move Zeroes](https://github.com/laizimo/leetcode-answer/blob/master/fifth%20day/Move%20Zeroes.md)
 
 [292. Nim Game](https://github.com/laizimo/leetcode-answer/blob/master/third%20day/Nim%20Game.md)
+
+[326. Power of Three](https://github.com/laizimo/leetcode-answer/blob/master/twelveth%20day/Power%20of%20Three.md)
 
 [344. Reverse String](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Reverse%20String.md)
 
@@ -109,6 +121,8 @@
 
 [566. Reshape the Matrix](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Reshape%20the%20Matrix.md)
 
+[572. Subtree of Another Tree](https://github.com/laizimo/leetcode-answer/blob/master/twelveth%20day/Subtree%20of%20Another%20Tree.md)
+
 [575. Distribute Candies](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Distribute%20Candies.md)
 
 [594. Longest Harmonious Subsequence](https://github.com/laizimo/leetcode-answer/blob/master/eleventh%20day/Longest%20Harmonious%20Subsequence.md)
@@ -125,6 +139,8 @@
 
 [637. Average of Levels in Binary Tree](https://github.com/laizimo/leetcode-answer/blob/master/third%20day/Average%20of%20Levels%20in%20Binary%20Tree.md)
 
+[645. Set Mismatch](https://github.com/laizimo/leetcode-answer/blob/master/twelveth%20day/Set%20Mismatch.md)
+
 [653. Two Sum IV - Input is a BST](https://github.com/laizimo/leetcode-answer/blob/master/fifth%20day/Two%20Sum%20IV%20-%20Input%20is%20a%20BST.md)
 
 [657. Judge Route Circle](https://github.com/laizimo/leetcode-answer/blob/master/first%20day/Judge%20Route%20Circle.md)
@@ -132,4 +148,3 @@
 [669. Trim a Binary Search Tree](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Trim%20a%20Binary%20Search%20Tree.md)
 
 [671. Second Minimum Node In a Binary Tree](https://github.com/laizimo/leetcode-answer/blob/master/eleventh%20day/Second%20Minimum%20Node%20In%20a%20Binary%20Tree.md)
-
