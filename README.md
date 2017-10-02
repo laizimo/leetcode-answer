@@ -3,6 +3,8 @@
 
 ## 已做的题目：
 
+### Easy部分
+
 [13. Roman to Integer](https://github.com/laizimo/leetcode-answer/blob/master/eighth%20day/Roman%20to%20Integer.md)
 
 [83. Remove Duplicates from Sorted List](https://github.com/laizimo/leetcode-answer/blob/master/twelveth%20day/Remove%20Duplicates%20from%20Sorted%20List.md)
@@ -146,4 +148,3 @@
 [669. Trim a Binary Search Tree](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Trim%20a%20Binary%20Search%20Tree.md)
 
 [671. Second Minimum Node In a Binary Tree](https://github.com/laizimo/leetcode-answer/blob/master/eleventh%20day/Second%20Minimum%20Node%20In%20a%20Binary%20Tree.md)
-
