@@ -3,7 +3,7 @@
 
 ## 已做的题目：
 
-### easy部分
+### Easy部分
 
 [13. Roman to Integer](https://github.com/laizimo/leetcode-answer/blob/master/eighth%20day/Roman%20to%20Integer.md)
 
