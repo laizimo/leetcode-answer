@@ -15,6 +15,8 @@
 
 [53. Maximum Subarray](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Maximum%20Subarray.md)
 
+[66. Plus One](https://github.com/laizimo/leetcode-answer/blob/master/fourteenth%20day/Plus%20One.md)
+
 [83. Remove Duplicates from Sorted List](https://github.com/laizimo/leetcode-answer/blob/master/twelveth%20day/Remove%20Duplicates%20from%20Sorted%20List.md)
 
 [100. Same Tree](https://github.com/laizimo/leetcode-answer/blob/master/eighth%20day/Same%20Tree.md)
@@ -22,6 +24,8 @@
 [101. Symmetric Tree](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Symmetric%20Tree.md)
 
 [107. Binary Tree Level Order Traversal II](https://github.com/laizimo/leetcode-answer/blob/master/twelveth%20day/Binary%20Tree%20Level%20Order%20Traversal%20II.md)
+
+[118. Pascal's Triangle](https://github.com/laizimo/leetcode-answer/blob/master/fourteenth%20day/Pascal's%20Triangle.md)
 
 [121. Best Time to Buy and Sell Stock](https://github.com/laizimo/leetcode-answer/blob/master/eleventh%20day/Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
 
@@ -71,13 +75,19 @@
 
 [326. Power of Three](https://github.com/laizimo/leetcode-answer/blob/master/twelveth%20day/Power%20of%20Three.md)
 
+[342. Power of Four](https://github.com/laizimo/leetcode-answer/blob/master/fourteenth%20day/Power%20of%20Four.md)
+
 [344. Reverse String](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Reverse%20String.md)
+
+[345. Reverse Vowels of a String](https://github.com/laizimo/leetcode-answer/blob/master/fourteenth%20day/Reverse%20Vowels%20of%20a%20String.md)
 
 [347. Path Sum III](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Path%20Sum%20III.md)
 
 [349. Intersection of Two Arrays](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Intersection%20of%20Two%20Arrays.md)
 
 [350. Intersection of Two Arrays II](https://github.com/laizimo/leetcode-answer/blob/master/tenth%20day/Intersection%20of%20Two%20Arrays%20II.md)
+
+[367. Valid Perfect Square](https://github.com/laizimo/leetcode-answer/blob/master/fourteenth%20day/Valid%20Perfect%20Square.md)
 
 [371. Sum of Two Integers](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Sum%20of%20Two%20Integers.md)
 
@@ -104,6 +114,8 @@
 [453. Minimum Moves to Equal Array Elements](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Minimum%20Moves%20to%20Equal%20Array%20Elements.md)
 
 [455. Assign Cookies](https://github.com/laizimo/leetcode-answer/blob/master/tenth%20day/Assign%20Cookies.md)
+
+[459. Repeated Substring Pattern](https://github.com/laizimo/leetcode-answer/blob/master/fourteenth%20day/Repeated%20Substring%20Pattern.md)
 
 [461. Hamming Distance](https://github.com/laizimo/leetcode-answer/blob/master/first%20day/hamming%20distance.md)
 
