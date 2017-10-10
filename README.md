@@ -7,9 +7,19 @@
 
 [13. Roman to Integer](https://github.com/laizimo/leetcode-answer/blob/master/eighth%20day/Roman%20to%20Integer.md)
 
+[21. Merge Two Sorted Lists](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Merge%20Two%20Sorted%20Lists.md)
+
+[27. Remove Element](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Remove%20Element.md)
+
+[35. Search Insert Position](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Search%20Insert%20Position.md)
+
+[53. Maximum Subarray](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Maximum%20Subarray.md)
+
 [83. Remove Duplicates from Sorted List](https://github.com/laizimo/leetcode-answer/blob/master/twelveth%20day/Remove%20Duplicates%20from%20Sorted%20List.md)
 
 [100. Same Tree](https://github.com/laizimo/leetcode-answer/blob/master/eighth%20day/Same%20Tree.md)
+
+[101. Symmetric Tree](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Symmetric%20Tree.md)
 
 [107. Binary Tree Level Order Traversal II](https://github.com/laizimo/leetcode-answer/blob/master/twelveth%20day/Binary%20Tree%20Level%20Order%20Traversal%20II.md)
 
@@ -29,6 +39,8 @@
 
 [171. Excel Sheet Column Number](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Excel%20Sheet%20Column%20Number.md)
 
+[191. Number of 1 Bits](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Number%20of%201%20Bits.md)
+
 [202. Happy Number](https://github.com/laizimo/leetcode-answer/blob/master/eleventh%20day/Happy%20Number.md)
 
 [206. Reverse Linked List](https://github.com/laizimo/leetcode-answer/blob/master/ninth%20day/Reverse%20Linked%20List.md)
@@ -39,11 +51,17 @@
 
 [231. Power of Two](https://github.com/laizimo/leetcode-answer/blob/master/twelveth%20day/Power%20of%20Two.md)
 
+[235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md)
+
 [237. Delete Node in a Linked List](https://github.com/laizimo/leetcode-answer/blob/master/eighth%20day/Delete%20Node%20in%20a%20Linked%20List.md)
 
 [242. Valid Anagram](https://github.com/laizimo/leetcode-answer/blob/master/eighth%20day/Valid%20Anagram.md)
 
+[257. Binary Tree Paths](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Binary%20Tree%20Paths.md)
+
 [258. Add Digits](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Add%20Digits.md)
+
+[263. Ugly Number](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Ugly%20Number.md)
 
 [268. Missing Number](https://github.com/laizimo/leetcode-answer/blob/master/tenth%20day/Missing%20Number.md)
 
@@ -54,6 +72,8 @@
 [326. Power of Three](https://github.com/laizimo/leetcode-answer/blob/master/twelveth%20day/Power%20of%20Three.md)
 
 [344. Reverse String](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Reverse%20String.md)
+
+[347. Path Sum III](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Path%20Sum%20III.md)
 
 [349. Intersection of Two Arrays](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Intersection%20of%20Two%20Arrays.md)
 
