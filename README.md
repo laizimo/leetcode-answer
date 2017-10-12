@@ -27,6 +27,8 @@
 
 [118. Pascal's Triangle](https://github.com/laizimo/leetcode-answer/blob/master/fourteenth%20day/Pascal's%20Triangle.md)
 
+[119. Pascal's Triangle II](https://github.com/laizimo/leetcode-answer/blob/master/fourteenth%20day/Pascal's%20Triangle%20II.md)
+
 [121. Best Time to Buy and Sell Stock](https://github.com/laizimo/leetcode-answer/blob/master/eleventh%20day/Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
 
 [122. Best Time to Buy and Sell Stock II](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)
@@ -129,6 +131,8 @@
 
 [500. Keyboard Row](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Keyboard%20Row.md)
 
+[501. Find Mode in Binary Search Tree](https://github.com/laizimo/leetcode-answer/blob/master/fourteenth%20day/Find%20Mode%20in%20Binary%20Search%20Tree.md)
+
 [504. Base 7](https://github.com/laizimo/leetcode-answer/blob/master/tenth%20day/Base%207.md)
 
 [506. Relative Ranks](https://github.com/laizimo/leetcode-answer/blob/master/eighth%20day/Relative%20Ranks.md)
@@ -170,6 +174,8 @@
 [628. Maximum Product of Three Numbers](https://github.com/laizimo/leetcode-answer/blob/master/tenth%20day/Maximum%20Product%20of%20Three%20Numbers.md)
 
 [637. Average of Levels in Binary Tree](https://github.com/laizimo/leetcode-answer/blob/master/third%20day/Average%20of%20Levels%20in%20Binary%20Tree.md)
+
+[643. Maximum Average Subarray I](https://github.com/laizimo/leetcode-answer/blob/master/fourteenth%20day/Maximum%20Average%20Subarray%20I.md)
 
 [645. Set Mismatch](https://github.com/laizimo/leetcode-answer/blob/master/twelveth%20day/Set%20Mismatch.md)
 
