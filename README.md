@@ -3,29 +3,21 @@
 
 ## 已做的题目：
 
-| No.  |      Title       |                 Solution                 | Difficulty |
-| ---- | :--------------: | :--------------------------------------: | :--------: |
-| 13   | Roman to Integer | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/eighth%20day/Roman%20to%20Integer.md) |    Easy    |
+| No.  |               Title                |                 Solution                 | Difficulty |
+| :--: | :--------------------------------: | :--------------------------------------: | :--------: |
+|  13  |          Roman to Integer          | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/eighth%20day/Roman%20to%20Integer.md) |    Easy    |
+|  21  |       Merge Two Sorted Lists       | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Merge%20Two%20Sorted%20Lists.md) |    Easy    |
+|  27  |           Remove Element           | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Remove%20Element.md) |    Easy    |
+|  35  |       Search Insert Position       | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Search%20Insert%20Position.md) |    Easy    |
+|  53  |          Maximum Subarray          | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Maximum%20Subarray.md) |    Easy    |
+|  66  |              Plus One              | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/fourteenth%20day/Plus%20One.md) |    Easy    |
+|  83  | Remove Duplicates from Sorted List | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/twelveth%20day/Remove%20Duplicates%20from%20Sorted%20List.md) |    Easy    |
+| 100  |             Same Tree              | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/eighth%20day/Same%20Tree.md) |    Easy    |
+| 101  |           Symmetric Tree           | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Symmetric%20Tree.md) |    Easy    |
 
 
 
 ### Easy部分
-
-[21. Merge Two Sorted Lists](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Merge%20Two%20Sorted%20Lists.md)
-
-[27. Remove Element](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Remove%20Element.md)
-
-[35. Search Insert Position](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Search%20Insert%20Position.md)
-
-[53. Maximum Subarray](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Maximum%20Subarray.md)
-
-[66. Plus One](https://github.com/laizimo/leetcode-answer/blob/master/fourteenth%20day/Plus%20One.md)
-
-[83. Remove Duplicates from Sorted List](https://github.com/laizimo/leetcode-answer/blob/master/twelveth%20day/Remove%20Duplicates%20from%20Sorted%20List.md)
-
-[100. Same Tree](https://github.com/laizimo/leetcode-answer/blob/master/eighth%20day/Same%20Tree.md)
-
-[101. Symmetric Tree](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Symmetric%20Tree.md)
 
 [107. Binary Tree Level Order Traversal II](https://github.com/laizimo/leetcode-answer/blob/master/twelveth%20day/Binary%20Tree%20Level%20Order%20Traversal%20II.md)
 
