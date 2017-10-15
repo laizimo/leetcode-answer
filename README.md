@@ -14,47 +14,24 @@
 |  83  | Remove Duplicates from Sorted List | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/twelveth%20day/Remove%20Duplicates%20from%20Sorted%20List.md) |    Easy    |
 | 100  |             Same Tree              | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/eighth%20day/Same%20Tree.md) |    Easy    |
 | 101  |           Symmetric Tree           | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Symmetric%20Tree.md) |    Easy    |
+| 104  |           Maximum Depth of Binary Tree           | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/third%20day/Maximum%20Depth%20of%20Binary%20Tree.md) |    Easy    |
 | 107  |           Binary Tree Level Order Traversal II           | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/twelveth%20day/Binary%20Tree%20Level%20Order%20Traversal%20II.md) |    Easy    |
-
-
-
-### Easy部分
-
-[. ]()
-
-[110. Balanced Binary Tree](https://github.com/laizimo/leetcode-answer/blob/master/first%20day/Balanced%20Binary%20Tree.md)
-
-[118. Pascal's Triangle](https://github.com/laizimo/leetcode-answer/blob/master/fourteenth%20day/Pascal's%20Triangle.md)
-
-[119. Pascal's Triangle II](https://github.com/laizimo/leetcode-answer/blob/master/fourteenth%20day/Pascal's%20Triangle%20II.md)
-
-[121. Best Time to Buy and Sell Stock](https://github.com/laizimo/leetcode-answer/blob/master/eleventh%20day/Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
-
-[122. Best Time to Buy and Sell Stock II](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)
-
-[104. Maximum Depth of Binary Tree](https://github.com/laizimo/leetcode-answer/blob/master/third%20day/Maximum%20Depth%20of%20Binary%20Tree.md)
-
-[108. Convert Sorted Array to Binary Search Tree](https://github.com/laizimo/leetcode-answer/blob/master/eleventh%20day/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md)
-
-[136. Single Number](https://github.com/laizimo/leetcode-answer/blob/master/third%20day/Single%20Number.md)
-
-[167. Two Sum II - Input array is sorted](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md)
-
-[169. Majority Element](https://github.com/laizimo/leetcode-answer/blob/master/seventh%20day/Majority%20Element.md)
-
-[171. Excel Sheet Column Number](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Excel%20Sheet%20Column%20Number.md)
-
-[191. Number of 1 Bits](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Number%20of%201%20Bits.md)
-
-[202. Happy Number](https://github.com/laizimo/leetcode-answer/blob/master/eleventh%20day/Happy%20Number.md)
-
-[206. Reverse Linked List](https://github.com/laizimo/leetcode-answer/blob/master/ninth%20day/Reverse%20Linked%20List.md)
-
-[217. Contains Duplicate](https://github.com/laizimo/leetcode-answer/blob/master/ninth%20day/Contains%20Duplicate.md)
-
-[226. Invert Binary Tree](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Invert%20Binary%20Tree.md)
-
-[231. Power of Two](https://github.com/laizimo/leetcode-answer/blob/master/twelveth%20day/Power%20of%20Two.md)
+| 108  |           Convert Sorted Array to Binary Search Tree           | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/eleventh%20day/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md) |    Easy    |
+| 110  |           Balanced Binary Tree           | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/first%20day/Balanced%20Binary%20Tree.md) |    Easy    |
+| 118  |           Pascal's Triangle           | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/fourteenth%20day/Pascal's%20Triangle.md) |    Easy    |
+| 119  |           Pascal's Triangle II           | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/fourteenth%20day/Pascal's%20Triangle%20II.md) |    Easy    |
+| 121  |           Best Time to Buy and Sell Stock           | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/eleventh%20day/Best%20Time%20to%20Buy%20and%20Sell%20Stock.md) |    Easy    |
+| 122  |           Best Time to Buy and Sell Stock II           | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md) |    Easy    |
+| 136  |           Single Number           | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/third%20day/Single%20Number.md) |    Easy    |
+| 167  |           Two Sum II - Input array is sorted           | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Two%20Sum%20II%20-%20Input%20array%20is%20sorted.md) |    Easy    |
+| 169  |           Majority Element           | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/seventh%20day/Majority%20Element.md) |    Easy    |
+| 171  |           Excel Sheet Column Number           | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Excel%20Sheet%20Column%20Number.md) |    Easy    |
+| 191  |           Number of 1 Bits           | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Number%20of%201%20Bits.md) |    Easy    |
+| 202  |           Happy Number           | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/eleventh%20day/Happy%20Number.md) |    Easy    |
+| 206  |           Reverse Linked List           | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/ninth%20day/Reverse%20Linked%20List.md) |    Easy    |
+| 217  |           Contains Duplicate           | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/ninth%20day/Contains%20Duplicate.md) |    Easy    |
+| 226  |           Invert Binary Tree           | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Invert%20Binary%20Tree.md) |    Easy    |
+| 231  |           Power of Two           | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/twelveth%20day/Power%20of%20Two.md) |    Easy    |
 
 [235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md)
 
