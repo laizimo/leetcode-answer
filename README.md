@@ -3,9 +3,13 @@
 
 ## 已做的题目：
 
-### Easy部分
+| No.  |      Title       |                 Solution                 | Difficulty |
+| ---- | :--------------: | :--------------------------------------: | :--------: |
+| 13   | Roman to Integer | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/eighth%20day/Roman%20to%20Integer.md) |    Easy    |
 
-[13. Roman to Integer](https://github.com/laizimo/leetcode-answer/blob/master/eighth%20day/Roman%20to%20Integer.md)
+
+
+### Easy部分
 
 [21. Merge Two Sorted Lists](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Merge%20Two%20Sorted%20Lists.md)
 
