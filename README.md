@@ -25,6 +25,8 @@
 
 [107. Binary Tree Level Order Traversal II](https://github.com/laizimo/leetcode-answer/blob/master/twelveth%20day/Binary%20Tree%20Level%20Order%20Traversal%20II.md)
 
+[110. Balanced Binary Tree](https://github.com/laizimo/leetcode-answer/blob/master/first%20day/Balanced%20Binary%20Tree.md)
+
 [118. Pascal's Triangle](https://github.com/laizimo/leetcode-answer/blob/master/fourteenth%20day/Pascal's%20Triangle.md)
 
 [119. Pascal's Triangle II](https://github.com/laizimo/leetcode-answer/blob/master/fourteenth%20day/Pascal's%20Triangle%20II.md)
