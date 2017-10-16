@@ -59,6 +59,7 @@
 | 409  | Longest Palindrome                             | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/ninth%20day/Longest%20Palindrome.md) |    Easy    |
 | 412  | Fizz Buzz                             | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Fizz%20Buzz.md) |    Easy    |
 | 415  | Add Strings                             | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/eleventh%20day/Add%20Strings.md) |    Easy    |
+| 443  | Number of Segments in a String                             | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/first%20day/Number%20of%20Segments%20in%20a%20String.md) |    Easy    |
 | 448  | Find All Numbers Disappeared in an Array                             | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Find%20All%20Numbers%20Disappeared%20in%20an%20Array.md) |    Easy    |
 | 453  | Minimum Moves to Equal Array Elements                             | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Minimum%20Moves%20to%20Equal%20Array%20Elements.md) |    Easy    |
 | 455  | Assign Cookies                             | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/tenth%20day/Assign%20Cookies.md) |    Easy    |
