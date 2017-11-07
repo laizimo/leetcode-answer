@@ -80,6 +80,7 @@
 | 501  | Find Mode in Binary Search Tree                             | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/fourteenth%20day/Find%20Mode%20in%20Binary%20Search%20Tree.md) |    Easy    |
 | 504  | Base 7                             | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/tenth%20day/Base%207.md) |    Easy    |
 | 506  | Relative Ranks                             | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/eighth%20day/Relative%20Ranks.md) |    Easy    |
+| 507  | Perfect Number                             | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Perfect%20Number.md) |    Easy    |
 | 520  | Detect Capital                             | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Detect%20Capital.md) |    Easy    |
 | 520  | Detect Capital                             | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Detect%20Capital.md) |    Easy    |
 | 521  | Longest Uncommon Subsequence I                             | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Longest%20Uncommon%20Subsequence%20I.md) |    Easy    |
