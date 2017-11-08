@@ -8,6 +8,7 @@
 |  1  | Two Sum                         | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/first%20day/Two%20Sum.md) |    Easy    |
 |  9  | Palindrome Number                         | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/first%20day/Palindrome%20Number.md) |    Easy    |
 |  13  | Roman to Integer                         | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/eighth%20day/Roman%20to%20Integer.md) |    Easy    |
+|  20  | Valid Parentheses                   | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Valid%20Parentheses.md) |    Easy    |
 |  21  | Merge Two Sorted Lists                   | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Merge%20Two%20Sorted%20Lists.md) |    Easy    |
 |  26  | Remove Duplicates from Sorted Array                           | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Remove%20Duplicates%20from%20Sorted%20Array.md) |    Easy    |
 |  27  | Remove Element                           | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Remove%20Element.md) |    Easy    |
