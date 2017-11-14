@@ -22,6 +22,7 @@
 | 107  | Binary Tree Level Order Traversal II     | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/twelveth%20day/Binary%20Tree%20Level%20Order%20Traversal%20II.md) |    Easy    |
 | 108  | Convert Sorted Array to Binary Search Tree | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/eleventh%20day/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.md) |    Easy    |
 | 110  | Balanced Binary Tree                     | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/first%20day/Balanced%20Binary%20Tree.md) |    Easy    |
+| 111  | Minimum Depth of Binary Tree                        | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Minimum%20Depth%20of%20Binary%20Tree.md) |    Easy    |
 | 112  | Path Sum                        | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Path%20Sum.md) |    Easy    |
 | 118  | Pascal's Triangle                        | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/fourteenth%20day/Pascal's%20Triangle.md) |    Easy    |
 | 119  | Pascal's Triangle II                     | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/fourteenth%20day/Pascal's%20Triangle%20II.md) |    Easy    |
