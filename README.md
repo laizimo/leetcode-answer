@@ -47,6 +47,7 @@
 | 263  | Ugly Number                             | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Ugly%20Number.md) |    Easy    |
 | 268  | Missing Number                             | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/tenth%20day/Missing%20Number.md) |    Easy    |
 | 283  | Move Zeroes                             | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/fifth%20day/Move%20Zeroes.md) |    Easy    |
+| 290  | Word Pattern                             | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Word%20Pattern.md) |    Easy    |
 | 292  | Nim Game                             | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/third%20day/Nim%20Game.md) |    Easy    |
 | 326  | Power of Three                             | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/twelveth%20day/Power%20of%20Three.md) |    Easy    |
 | 342  | Power of Four                             | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/fourteenth%20day/Power%20of%20Four.md) |    Easy    |
