@@ -15,6 +15,7 @@
 |  35  | Search Insert Position                   | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Search%20Insert%20Position.md) |    Easy    |
 |  53  | Maximum Subarray                         | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Maximum%20Subarray.md) |    Easy    |
 |  66  | Plus One                                 | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/fourteenth%20day/Plus%20One.md) |    Easy    |
+|  67  | Add Binary                                 | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/fourth%20day/Add%20Binary.md) |    Easy    |
 |  83  | Remove Duplicates from Sorted List       | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/twelveth%20day/Remove%20Duplicates%20from%20Sorted%20List.md) |    Easy    |
 | 100  | Same Tree                                | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/eighth%20day/Same%20Tree.md) |    Easy    |
 | 101  | Symmetric Tree                           | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Symmetric%20Tree.md) |    Easy    |
