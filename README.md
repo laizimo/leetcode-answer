@@ -112,3 +112,4 @@
 | 657  | Judge Route Circle                             | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/first%20day/Judge%20Route%20Circle.md) |    Easy    |
 | 669  | Trim a Binary Search Tree                             | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/second%20day/Trim%20a%20Binary%20Search%20Tree.md) |    Easy    |
 | 671  | Second Minimum Node In a Binary Tree                            | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/eleventh%20day/Second%20Minimum%20Node%20In%20a%20Binary%20Tree.md) |    Easy    |
+| 728  | Self Dividing Numbers                            | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/fifth%20day/Self%20Dividing%20Numbers.md) |    Easy    |
