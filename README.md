@@ -35,6 +35,7 @@
 | 171  | Excel Sheet Column Number                | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/sixth%20day/Excel%20Sheet%20Column%20Number.md) |    Easy    |
 | 191  | Number of 1 Bits                         | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/thirteenth%20day/Number%20of%201%20Bits.md) |    Easy    |
 | 202  | Happy Number                             | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/eleventh%20day/Happy%20Number.md) |    Easy    |
+| 203  | Remove Linked List Elements                             | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/seventh%20day/Remove%20Linked%20List%20Elements.md) |    Easy    |
 | 205  | Isomorphic Strings                      | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/third%20day/Isomorphic%20Strings.md) |    Easy    |
 | 206  | Reverse Linked List                      | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/ninth%20day/Reverse%20Linked%20List.md) |    Easy    |
 | 217  | Contains Duplicate                       | [JavaScript](https://github.com/laizimo/leetcode-answer/blob/master/ninth%20day/Contains%20Duplicate.md) |    Easy    |
