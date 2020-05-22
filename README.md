@@ -9,6 +9,8 @@
 
 ### 数组
 
+[两数之和 - 第一题](https://github.com/laizimo/leetcode-answer/issues/2)
+
 ### 链表
 
 ### 树
