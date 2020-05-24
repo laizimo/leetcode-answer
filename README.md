@@ -9,6 +9,8 @@
 
 [无重复字符的最长子串 - 第三题](https://github.com/laizimo/leetcode-answer/issues/4)
 
+[Z 字形变换 - 第六题](https://github.com/laizimo/leetcode-answer/issues/7)
+
 ### 数组
 
 [两数之和 - 第一题](https://github.com/laizimo/leetcode-answer/issues/2)
