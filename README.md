@@ -7,6 +7,8 @@
 
 [整数反转 - 第七题](https://github.com/laizimo/leetcode-answer/issues/8)
 
+[字符串转换整数 (atoi) - 第八题](https://github.com/laizimo/leetcode-answer/issues/9)
+
 ### 字符串
 
 [无重复字符的最长子串 - 第三题](https://github.com/laizimo/leetcode-answer/issues/4)
