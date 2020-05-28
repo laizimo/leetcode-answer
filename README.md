@@ -19,6 +19,8 @@
 
 [Z 字形变换 - 第六题](https://github.com/laizimo/leetcode-answer/issues/7)
 
+[最长公共前缀 - 第十四题](https://github.com/laizimo/leetcode-answer/issues/15)
+
 ### 数组
 
 [两数之和 - 第一题](https://github.com/laizimo/leetcode-answer/issues/2)
