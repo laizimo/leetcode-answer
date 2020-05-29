@@ -27,6 +27,8 @@
 
 [盛最多水的容器 - 第十一题](https://github.com/laizimo/leetcode-answer/issues/12)
 
+[三数之和 - 第十五题](https://github.com/laizimo/leetcode-answer/issues/16)
+
 ### 链表
 
 [两数相加 - 第二题](https://github.com/laizimo/leetcode-answer/issues/3)
