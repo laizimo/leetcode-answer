@@ -21,6 +21,8 @@
 
 [最长公共前缀 - 第十四题](https://github.com/laizimo/leetcode-answer/issues/15)
 
+[电话号码的字母组合 - 第十七题](https://github.com/laizimo/leetcode-answer/issues/18)
+
 ### 数组
 
 [两数之和 - 第一题](https://github.com/laizimo/leetcode-answer/issues/2)
@@ -30,6 +32,8 @@
 [三数之和 - 第十五题](https://github.com/laizimo/leetcode-answer/issues/16)
 
 [最接近三数之和 - 第十六题](https://github.com/laizimo/leetcode-answer/issues/17)
+
+[四数之和 - 第十八题](https://github.com/laizimo/leetcode-answer/issues/19)
 
 ### 链表
 
