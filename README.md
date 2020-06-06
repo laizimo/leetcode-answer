@@ -41,6 +41,8 @@
 
 [删除链表的倒数第N个节点 - 第十九题](https://github.com/laizimo/leetcode-answer/issues/20)
 
+[合并两个有序链表 - 第二十一题](https://github.com/laizimo/leetcode-answer/issues/22)
+
 ### 栈
 
 [有效的括号 - 第二十题](https://github.com/laizimo/leetcode-answer/issues/21)
