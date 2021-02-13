@@ -41,10 +41,8 @@ var maxProfit = function(prices) {
     for(let i = 0; i < prices.length; i++){
         if(prices[i] > stock){
             sum += prices[i] - stock;
-            stock = prices[i];
-        }else{
-            stock = prices[i];
         }
+            stock = prices[i];
     }
     return sum;
 };
